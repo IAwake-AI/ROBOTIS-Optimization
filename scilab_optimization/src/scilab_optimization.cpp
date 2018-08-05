@@ -99,6 +99,8 @@ void ScilabOptimization::solveRiccatiEquation(double *K, int *row_K, int *col_K,
   SciErr sciErr;
   char* job;
 
+  StrCtx* pvApiCtx;
+
   /****** CALCULATION ******/
   char variable_name_matrix_A[] = "A";
   char variable_name_matrix_B[] = "B";

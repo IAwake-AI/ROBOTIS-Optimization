@@ -45,11 +45,14 @@
 #include <stdio.h>
 
 // scilab
-#include <scilab/stack-c.h>
+//#include <scilab/stack-c.h>
 #include <scilab/call_scilab.h>
 #include <scilab/api_scilab.h>
+#include <scilab/api_stack_common.h>
 
 #define SCILIB_PATH "/usr/share/scilab"
+
+
 
 namespace robotis_framework
 {

@@ -77,10 +77,10 @@ target_link_libraries(scilab_optimization
   /usr/lib/scilab/libscilab-cli.so
   #/usr/lib/scilab/libscijvm.so
   /usr/lib/scilab/libscimatio.so
-  /usr/lib/scilab/libscisymbolic.so
+  #/usr/lib/scilab/libscisymbolic.so
   /usr/lib/scilab/libscispreadsheet.so
   #/usr/lib/scilab/libsciconsole.so
-  /usr/lib/scilab/libscitypes.so
+  #/usr/lib/scilab/libscitypes.so
   /usr/lib/scilab/libscilocalization.so
   /usr/lib/scilab/libscirandlib.so
   /usr/lib/scilab/libscicommons-disable.so
